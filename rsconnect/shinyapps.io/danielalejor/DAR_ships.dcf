@@ -1,0 +1,13 @@
+name: DAR_ships
+title: DAR_ships
+username:
+account: danielalejor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3268148
+bundleId: 3881971
+url: https://danielalejor.shinyapps.io/DAR_ships/
+when: 1605817802.99046
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.txt|Module.txt|notas.txt
